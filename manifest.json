@@ -1,0 +1,13 @@
+{
+  "name": "Quencil",
+  "short_name": "App",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "homepage/Layer-2.png",
+
+      "type": "image/png"
+    }
+  ]
+}
