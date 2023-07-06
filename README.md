@@ -1,6 +1,6 @@
 
 ## Quencil Website
-his website is designed to explore various sections such as Home, Career Camp, Technical Course, Non-Technical Course, Training Journey, and Contact Us. Just a Demo website For the Company.
+This website is designed to explore various sections such as Home, Career Camp, Technical Course, Non-Technical Course, Training Journey, and Contact Us. Just a Demo website For the Company.
 ## Tech Stack
 
 The following technologies were used to develop this website:
